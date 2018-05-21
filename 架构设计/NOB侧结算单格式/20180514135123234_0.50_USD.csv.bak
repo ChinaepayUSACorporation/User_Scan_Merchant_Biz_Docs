@@ -1,0 +1,7 @@
+File_Gen_Time,Total_Records,Total_Settle_Amount,Settle_Fee_Type,,,,,,,
+2.01805E+13,3,0.5,USD,,,,,,,
+settle_order_id,org_id,org_type,settle_belong_date,settle_batch_no,settle_start_time,settle_fee_amount,settle_fee_type,org_bank_name,settle_bank_account,settle_status
+a565fg4vcsw25s3g2tiqgpn2jehycgwh,212322593,Submch,20180509,20180509_0001,2.01805E+13,0.03,USD,NOB,6.83733E+14,2
+xu2tg2ace1lc2eyztr69nvvcwg50qg9x,212322593,Submch,20180510,20180510_0001,2.01805E+13,0.42,USD,NOB,6.83494E+14,2
+xl3h91f6b85gelrglfadtw4s44d2xgdy,212322593,Submch,20180513,20180513_0001,2.01805E+13,0.05,USD,NOB,6.80287E+14,2
+EOF,,,,,,,,,,

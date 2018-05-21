@@ -1,0 +1,14 @@
+1. Linux
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+URL: lmk.javang.cn
+user: root
+password: lms123456!
+tomcat : /opt/tools/apache-tomcat-7.0.73/webapps
+protocal: SSH
+
+
+2. MySql
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+jdbc.url=jdbc:mysql://112.74.90.158:3306/tmw?useUnicode=true&characterEncoding=utf-8
+jdbc.username=root
+jdbc.password=lms123456
